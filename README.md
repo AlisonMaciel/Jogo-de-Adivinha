@@ -16,4 +16,5 @@ Um jogo simples onde o usuário tenta adivinhar um número aleatório entre **0 
 
 <img src="https://i.imgur.com/l0UyFWR.png"/>
 <p>Caso queira jogar um pouco sinta-se avontade. Deixarei o link logo abaixo</p>
-<a href="https://trytoguessthenumbers.netlify.app/" target="_blank"/>
+
+🔗 [Acesse o jogo de adivinha](https://trytoguessthenumbers.netlify.app/)
