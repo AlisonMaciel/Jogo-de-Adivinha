@@ -14,4 +14,6 @@ Um jogo simples onde o usuário tenta adivinhar um número aleatório entre **0 
 ✅ Valida entradas inválidas (números fora do intervalo)  
 ✅ Botão para jogar novamente  
 
-<img src="https://i.imgur.com/l0UyFWR.png" target="_blank" />
+<img src="https://i.imgur.com/l0UyFWR.png"/>
+<p>Caso queira jogar um pouco sinta-se avontade. Deixarei o link logo abaixo</p>
+<a href="https://trytoguessthenumbers.netlify.app/" target="_blank"/>
